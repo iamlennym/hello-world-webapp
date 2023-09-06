@@ -4,6 +4,6 @@
     <title>Hello World</title>
 </head>
 <body>
-    <h1>Hierdie is 'n toets vir die vroutjie!</h1>
+    <h1>Test for Fred</h1>
 </body>
 </html>
